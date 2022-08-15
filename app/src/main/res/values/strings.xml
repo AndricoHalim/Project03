@@ -8,4 +8,10 @@
     <string name="btnlogin">Login</string>
     <string name="btnregister">Register</string>
     <string name="masukkan_password">Masukkan Password</string>
+    <string name="email">Email</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+    <string name="alamat_tinggal">Alamat Tinggal</string>
+    <string name="keluar">Keluar</string>
+    <string name="simpan">Simpan</string>
 </resources>

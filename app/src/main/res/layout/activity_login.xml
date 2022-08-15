@@ -57,7 +57,6 @@
         android:ems="10"
         android:hint="@string/masukkan_password"
         android:importantForAutofill="no"
-        android:inputType="numberPassword"
         android:textSize="14sp"
         tools:ignore="SpeakableTextPresentCheck" />
 
